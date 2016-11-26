@@ -1,9 +1,7 @@
 This file is created in Git
 c-1
-c-1-2
-c-2-1
+c-2
 c-3
 c-4
 c-5
 change from computer-1/b1
-change in b1 and m1
